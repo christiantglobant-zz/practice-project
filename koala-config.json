@@ -1,0 +1,12 @@
+{
+	"ignores": [
+		"app/template",
+		"node_modules",
+		"bower_components",
+		"app/css",
+		"app/script/vendor",
+		"server",
+		"server.js",
+		"dist"
+	]
+}

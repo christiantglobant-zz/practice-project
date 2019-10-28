@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /server/
+Disallow: /node_modules/

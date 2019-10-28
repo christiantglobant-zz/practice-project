@@ -1,0 +1,6 @@
+# Ignorar archivos y folders
+node_modules/*
+bower_components/*
+server/user_guide/*
+app/uploads/*
+npm-debug.log

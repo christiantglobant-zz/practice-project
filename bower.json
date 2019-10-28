@@ -1,0 +1,71 @@
+{
+  "name": "vulcano-support",
+  "description": "Aplicación de control soporte técnico o asistencia técnica  por medio del cual se proporciona asistencia a los usuarios al tener algún problema al utilizar un producto o servicio",
+  "main": "index.html",
+  "author": "Naycool Gonzalez <Naycoolgonzalez@gmail.com>",
+  "contributors": [
+    {
+      "name": "Miguel Muslaco",
+      "email": "mjmuslaco@gmail.com"
+    },
+    {
+      "name": "Young Sierra",
+      "email": "ysierra@vulcanocompany.com"
+    },
+    {
+      "name": "Humberto Suarez",
+      "email": "consultor01@vulcanocompany.com"
+    },
+    {
+      "name": "Jeans Nuñez",
+      "email": "soporte@vulcanocompany.com"
+    },
+    {
+      "name": "Wilver Hurtado",
+      "email": "sistemas@vulcanocompany.com"
+    }
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Soporte",
+    "técnico"
+  ],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "^1.6.4",
+    "angular-animate": "^1.6.4",
+    "angular-aria": "^1.6.4",
+    "angular-messages": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "angular-sanitize": "^1.6.4",
+    "angular-ui-notification": "^0.3.6",
+    "angular-ui-select2": "0.0.5",
+    "bootstrap": "^3.3.7",
+    "cropper": "^2.3.4",
+    "font-awesome": "^4.7.0",
+    "ngstorage": "^0.3.11",
+    "parsleyjs": "^2.7.2",
+    "select2": "^4.0.3",
+    "angular-bootstrap": "^2.5.0",
+    "bootstrap-datepicker": "^1.7.0",
+    "medium-editor": "^5.23.1",
+    "angular-medium-editor": "^1.2.1",
+    "push.js": "^0.0.13",
+    "ngprogress": "^1.1.3",
+    "sweetalert": "^1.1.3",
+    "ngSweetAlert": "angular-sweetalert#^1.1.2",
+    "angular-busy": "^4.1.4",
+    "sweetalert2": "^6.6.6",
+    "angular-google-chart": "^0.1.0",
+    "angular-resource": "^1.6.5",
+    "ng-table-excel-export": "*"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "vulcano-support",
+  "version": "1.9.1",
+  "description": "Aplicación de control soporte técnico o asistencia técnica  por medio del cual se proporciona asistencia a los usuarios al tener algún problema al utilizar un producto o servicio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "inits": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/nik0571/vulcano-support.git"
+  },
+  "keywords": [
+    "Soporte",
+    "técnico"
+  ],
+  "author": "Naycool Gonzalez <Naycoolgonzalez@gmail.com>",
+  "contributors": [
+    {
+      "name": "Miguel Muslaco",
+      "email": "mjmuslaco@gmail.com"
+    },
+    {
+      "name": "Young Sierra",
+      "email": "ysierra@vulcanocompany.com"
+    },
+    {
+      "name": "Humberto Suarez",
+      "email": "consultor01@vulcanocompany.com"
+    },{
+      "name": "Jeans Nuñez",
+      "email": "soporte@vulcanocompany.com"
+    },{
+      "name": "Wilver Hurtado",
+      "email": "sistemas@vulcanocompany.com"
+    }
+  ],
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nik0571/vulcano-support#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.17.2",
+    "crypto": "0.0.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "mongod": "^2.0.0",
+    "mongodb": "^2.2.29",
+    "mongoose": "^4.11.0",
+    "nodemailer": "^4.0.1",
+    "promise": "^8.0.0",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "nodemon": "^1.11.0"
+  }
+}
